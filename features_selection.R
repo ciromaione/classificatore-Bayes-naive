@@ -1,4 +1,4 @@
-# Title     : features_reduction
+# Title     : features_selection
 # Created by: Ciro Maione
 # Created on: 13/08/20
 
